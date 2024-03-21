@@ -24,3 +24,8 @@ You’ll make use of a variety of Python audio libraries, e.g., librosa. You sho
 
 Consider not converting audio to images but instead setting up an audio classification framework that
 operates on audio representations of the data.
+
+## Resources
+
+This is the one I used for the code below. I got stuck trying to tranform the labels from string to numerical values for the GPU to be able to use them with the methods below.
+https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5
