@@ -29,6 +29,8 @@ operates on audio representations of the data.
 
 [This](https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5) is the article we used for the first part in the notebook. We tried to replicate the work from the article, but got stuck somewhere with tensors. After much trying and failing, we decided to take the easy way out and just create mel-spectograms and use fastai to perform training on the pictures. You can find the code where we generated spectograms [here](https://github.com/MrKiwey/audio-processing-create-spectograms).
 
+We used the FSDKaggle2018 dataset used in the Freesound General-Purpose Audio Tagging Challenge on Kaggle.
+
 After creating the spectograms and importing them into Kaggle, we could use this notebook to perform machine learning on them, producing a model. Because of our time spent trying to create a model a different way, we were not able to do a lot of preprocessing on the data. Therefore the accuracy of our model is quite low, around 75%. Although, the biggest flaws in the model are on sounds that are quite similar. So it is understandable that it gets these wrong sometimes. If we were to work further with our model, this would be a point of interest. 
 
 ## Resources
