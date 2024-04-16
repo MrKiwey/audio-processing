@@ -27,4 +27,4 @@ operates on audio representations of the data.
 
 ## Resources
 
-[This](https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5) is the article we used for the first part in the notebook. We tried to replicate the work from the article, but got stuck somewhere with tensors. After much trying and failing, we decided to take the easy way out and just create mel-spectograms and use fastai to perform training on the pictures. You can find the code where we generated spectograms [here]()
+[This](https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5) is the article we used for the first part in the notebook. We tried to replicate the work from the article, but got stuck somewhere with tensors. After much trying and failing, we decided to take the easy way out and just create mel-spectograms and use fastai to perform training on the pictures. You can find the code where we generated spectograms [here](https://github.com/MrKiwey/audio-processing-create-spectograms)
