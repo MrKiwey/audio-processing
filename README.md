@@ -35,7 +35,7 @@ After creating the spectograms and importing them into Kaggle, we could use this
 
 ## Resources
 
-Howard, J. and Gugger, S. (2020), <i>Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD</i> https://books.google.no/books?id=xd6LxgEACAAJ
+Howard, J. and Gugger, S. (2020), *Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD* https://books.google.no/books?id=xd6LxgEACAAJ
 
 Ketan Doshi (2021), <i>Audio Deep Learning Made Simple: Sound Classification, Step-by-Step </i>
 https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5
